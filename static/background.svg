@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" preserveAspectRatio="none">
+  <!-- Animated Background Gradient -->
+  <defs>
+    <linearGradient id="backgroundGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff">
+        <animate attributeName="stop-color" values="#ffffff;#e0f7fa;#ffffff" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#d9d9d9">
+        <animate attributeName="stop-color" values="#d9d9d9;#ffccbc;#d9d9d9" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#backgroundGradient)" />
+
+  <!-- Top Waves -->
+  <path d="M0,100 C400,200 1520,0 1920,100 L1920,0 L0,0 Z" fill="#000E3F">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,100 C400,200 1520,0 1920,100 L1920,0 L0,0 Z;
+              M0,120 C450,220 1500,20 1920,80 L1920,0 L0,0 Z;
+              M0,100 C400,200 1520,0 1920,100 L1920,0 L0,0 Z" />
+  </path>
+  <path d="M0,150 C600,250 1320,50 1920,150 L1920,0 L0,0 Z" fill="#000E3F">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0,150 C600,250 1320,50 1920,150 L1920,0 L0,0 Z;
+              M0,170 C650,270 1300,70 1920,130 L1920,0 L0,0 Z;
+              M0,150 C600,250 1320,50 1920,150 L1920,0 L0,0 Z" />
+  </path>
+</svg>
