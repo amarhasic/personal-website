@@ -59,86 +59,16 @@
 </section>
 
 
-<!-- Technologies Section -->
 <section class="bg-white text-black py-16 font-sans">
   <div class="max-w-6xl mx-auto px-6">
-    <h2 class="text-6xl font-extrabold text-center mb-8">Technologies</h2>
-    <div class="grid gap-12">
-      <!-- Backend Section -->
-      <div>
-        <h3 class="text-xl font-mono mb-4">Backend</h3>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            Python
-          </span>
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            SvelteKit
-          </span>
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            Node.js
-          </span>
-        </div>
-      </div>
-
-      <!-- Frontend Section -->
-      <div>
-        <h3 class="text-xl font-semibold mb-4">Frontend</h3>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            Svelte
-          </span>
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            HTML5
-          </span>
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            CSS3
-          </span>
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            SCSS
-          </span>
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            Tailwind CSS
-          </span>
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            JavaScript
-          </span>
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            UX/UI Design
-          </span>
-        </div>
-      </div>
-
-      <!-- Tools Section -->
-      <div>
-        <h3 class="text-xl font-semibold mb-4">Tools</h3>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            Git
-          </span>
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            Adobe Illustrator
-          </span>
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            Adobe Photoshop
-          </span>
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            Canva
-          </span>
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            VS Code
-          </span>
-          <span class="bg-[#000E3F] text-white rounded-lg px-4 py-2 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer">
-            WordPress
-          </span>
-        </div>
-      </div>
-    </div>
+    <h2 class="text-5xl md:text-8xl font-extrabold text-center mb-8">Technologies</h2>
+    <img 
+      src="/skills.svg" 
+      alt="My technology skills and expertise" 
+      class="w-full max-w-4xl mx-auto"
+    />
   </div>
 </section>
-
-
-
-
 
 
 <!-- Featured Work Section -->
