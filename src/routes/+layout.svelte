@@ -20,7 +20,7 @@
 
     <!-- Navigation Links (Left on desktop) -->
     <nav class="flex space-x-12 justify-center md:justify-start md:col-start-1">
-        <a href="/about-me" class="text-lg font-semibold uppercase tracking-wide text-gray-800 hover:text-gray-600">About Me</a>
+        <a href="/highlights" class="text-lg font-semibold uppercase tracking-wide text-gray-800 hover:text-gray-600">Highlights</a>
         <a href="/blog" class="text-lg font-semibold uppercase tracking-wide text-gray-800 hover:text-gray-600">Blog</a>
     </nav>
 

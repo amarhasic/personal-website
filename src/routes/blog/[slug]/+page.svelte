@@ -6,6 +6,8 @@
 <div class="container mx-auto max-w-4xl p-6">
   <article class="prose lg:prose-xl">
     <h1 class="text-4xl font-bold mb-6">{data.title}</h1>
+    <p class="text-gray-500 text-sm">Published on {data.date}</p>
+
     <div class="prose">
       {@html marked(data.content)}
     </div>
