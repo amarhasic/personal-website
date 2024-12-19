@@ -35,12 +35,12 @@
 <section class="bg-white text-black mb-36">
   <div class="max-w-6xl mx-auto px-6 text-center relative">
     <!-- Name and Subtitle -->
-    <h1 class="text-4xl md:text-8xl font-bold font-serif mb-2">Amar Hasic</h1>
+    <h1 class="name-text text-4xl md:text-8xl font-bold font-serif mb-2">Amar Hasic</h1>
     <div class="flex justify-center space-x-6 mb-4">
       <span class="text-gray-500 text-sm tracking-wider uppercase">Content Strategist</span>
       <span class="text-gray-500 text-sm tracking-wider uppercase">Web Dev</span>
     </div>
-    <p class="text-sm text-gray-800 md:text-2xl max-w-2xl mx-auto">
+    <p class="my-description text-sm text-gray-800 md:text-2xl max-w-2xl mx-auto">
       Hi, I'm Amar Hasic, an engineer, developer, maker, and problem solver from Germany.
     </p>
 
@@ -61,7 +61,7 @@
 
 <section class="bg-white text-black py-16 font-sans">
   <div class="max-w-6xl mx-auto px-6">
-    <h2 class="text-5xl md:text-8xl font-extrabold text-center mb-8">Technologies</h2>
+    <h2 class=" my-tech text-5xl md:text-7xl font-extrabold text-center mb-8">Technologies</h2>
     <img 
       src="/skills.svg" 
       alt="My technology skills and expertise" 
@@ -78,7 +78,7 @@
     <h3 class="text-sm uppercase tracking-widest text-gray-400 mb-4">
       Passionately crafted experiences
     </h3>
-    <h1 class="text-6xl font-extrabold -mb-8">Featured work</h1>
+    <h1 class="fewo text-5xl md:text-7xl font-extrabold -mb-8">Featured work</h1>
   </div>
 
   <!-- Projects Grid -->
@@ -116,7 +116,7 @@
     <h3 class="text-sm uppercase tracking-widest text-gray-400 mb-4">
       Labours of love
     </h3>
-    <h1 class="text-6xl font-extrabold mb-8">Experiments & Open Source</h1>
+    <h1 class="exp-opso text-5xl md:text-7xl font-extrabold mb-8">Experiments & Open Source</h1>
   </div>
 
   <!-- Upcoming Projects Grid -->
@@ -147,3 +147,15 @@
   </div>
 </section>
 
+<style>
+  .name-text {
+    font-family: 'Playfair Display', serif;
+  }
+
+  .my-description {
+    font-family: 'Playfair Display', serif;
+  }
+  .my-tech, .fewo, .exp-opso {
+    font-family: 'orbitron';
+  }
+</style>
