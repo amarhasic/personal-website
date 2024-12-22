@@ -1,5 +1,12 @@
 <script>
   const blogs = [
+
+  {
+      slug: 'page-load-speed-impact',
+      title: 'The Impact of Page Load Speed on SEO and Conversion Rates',
+      description: 'Discover how page load speed affects SEO, user engagement, and conversions, and learn actionable strategies to optimize performance for better business outcomes.',
+    },
+
     {
       slug: 'storytelling-in-web-development',
       title: 'The Power of Storytelling in Web Development: Boosting Conversion and Crafting Better Products',
