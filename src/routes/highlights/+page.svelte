@@ -3,14 +3,13 @@
     {
       title: "copy.directory",
       description: "Find the right word for copywriting.",
-      src: "/project1.png", // Ensure this file exists in the `static` folder
+      src: "/project1.png", 
       link: "https://www.copy.directory/",
     },
     {
-      title: "(coming soon) CS2 Giveaways",
-      description: "Discover and join CS2 giveaways.",
-      src: "/project2.png", // Ensure this file exists in the `static` folder
-      link: "https://cs2giveaways.com/",
+      title: "elmirr.com",
+      description: "Official website of Elmir Rizvanovic.",
+      src: "/project2.png",
     },
   ];
 
@@ -18,13 +17,13 @@
     {
       title: "Word Chain Validator",
       description: "Validate word chains with ease.",
-      src: "/word-chain-validator.png", // Ensure this file exists in the same folder as your assets
+      src: "/word-chain-validator.png", 
       link: "https://ahasic.eu.pythonanywhere.com/",
     },
     {
       title: " ",
       description: "",
-      src: "/comingsoon2.png", // Ensure this file exists in the `static` folder
+      src: "/comingsoon2.png", 
       link: "#",
     },
   ];
