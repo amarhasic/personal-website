@@ -1,4 +1,5 @@
 <script>
+
   let projects = [
     {
       title: "copy.directory",
@@ -8,9 +9,16 @@
     },
     {
       title: "elmirr.com",
-      description: "Official website of Elmir Rizvanovic.",
+      description: "The official branding page of professional football player.",
       src: "/project2.png",
+      link: "https://elmirr.com/",
     },
+    {
+      title: "eldinrizvanovic.com",
+      description: "Athlete's portfolio/personal brand website.",
+      src: "/project3.png",
+      link: "https://eldinrizvanovic.com/",
+    }
   ];
 
   let upcomingProjects = [
@@ -21,11 +29,11 @@
       link: "https://ahasic.eu.pythonanywhere.com/",
     },
     {
-      title: " ",
-      description: "",
-      src: "/comingsoon2.png", 
-      link: "#",
-    },
+  title: "NATO Phonetic Alphabet Trainer",
+  description: "Learn and practice the NATO phonetic alphabet.",
+  src: "/nato-phonetic-trainer.png",
+  link: "/nato-phonetic-trainer",
+},
   ];
 </script>
 
