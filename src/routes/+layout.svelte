@@ -49,8 +49,8 @@
         <!-- Social Media Icons -->
         <div class="flex space-x-6">
             <!-- Twitter -->
-            <a href="https://x.com/AmarHasik" target="_blank" aria-label="Twitter">
-                <img src="/twitter.png" alt="Twitter" class="w-6 h-6 hover:opacity-80 transition" />
+            <a href="https://bsky.app/profile/amarhasic.bsky.social" target="_blank" aria-label="Twitter">
+                <img src="/mastodon.svg" alt="bluesky" class="w-6 h-6 hover:opacity-80 transition" />
             </a>
 
             <!-- LinkedIn -->
